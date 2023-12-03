@@ -2,6 +2,6 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://www.kaggle.com/datasets/kausthubkannan/poultry-diseases-detection/download?datasetVersionNumber=1
+  source_URL: https://github.com/akashrai2003/data/raw/main/poultry_diseases2.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
