@@ -14,8 +14,4 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
-
-#to install from setup.py
 -e .
-
-
